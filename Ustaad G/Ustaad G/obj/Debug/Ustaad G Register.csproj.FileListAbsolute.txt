@@ -1,0 +1,12 @@
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\bin\Debug\Ustaad G.exe.config
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\bin\Debug\Ustaad G.exe
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\bin\Debug\Ustaad G.pdb
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad G Register.csprojResolveAssemblyReference.cache
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad_G.frmRegisterTutor.resources
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad_G.frmSelectRegister.resources
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad_G.frmStudentRegister.resources
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad_G.Properties.Resources.resources
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad G Register.csproj.GenerateResource.Cache
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad G Register.csproj.CoreCompileInputs.cache
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad G.exe
+C:\Users\Aleena Riaz\Desktop\OOAD Project\Ustaad G\Ustaad G\obj\Debug\Ustaad G.pdb
